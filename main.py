@@ -8,12 +8,12 @@ from bs4 import BeautifulSoup
 
 
 # 从测试号信息获取
-appID = ""
-appSecret = ""
+appID = "wx31a215bfaab7e123" 
+appSecret = "a95eafac67b78230a794cb272d47aa13"
 #收信人ID即 用户列表中的微信号，见上文
-openId = ""
+openId = "o5RYB60KeccG55PivQTrxaHrxL6A"
 # 天气预报模板ID
-weather_template_id = ""
+weather_template_id = "gYeYMFSj8qvqfrv9S_QKkDpGavcyhucIdhly3BGV6Hw"
 # 时间表模板ID
 timetable_template_id = ""
 
